@@ -28,3 +28,8 @@
 
 ## 🇺🇸 ЗША
 * [Чат о переезде в США](http://t.me/to_the_usa)
+
+## 🌍 Удаленка
+* https://t.me/rem0te
+* https://t.me/aog_remote
+* https://t.me/theyseeku
