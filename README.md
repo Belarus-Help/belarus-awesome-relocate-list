@@ -2,15 +2,15 @@
 Спіс прапаноў да каналаў пра рэлакацыю IT-шнікам з Беларусі
 
 ## Польшча
-* @frombelarustopoland
-* @BelarusyPL
-* @BelarusPoland
+* https://t.me/frombelarustopoland
+* https://t.me/BelarusyPL
+* https://t.me/BelarusPoland
 
 [Группа для тех, кто переезжает в Польшу по программе Poland.Business Harbour](https://t.me/PBH_BY2PLN)
 
 [Официальная поддержка IT при переезда](https://www.gov.pl/web/poland-businessharbour-ru)
  
- [Брашура](https://bit.ly/34hgACu) адносна магчымасці ўезду ў Польшчу, а таксама правоў і абавязкаў грамадзян Беларусі, якія вырашылі прыехаць у Польшчу
+[Брашура](https://bit.ly/34hgACu) адносна магчымасці ўезду ў Польшчу, а таксама правоў і абавязкаў грамадзян Беларусі, якія вырашылі прыехаць у Польшчу
 
 Калі ў вас яшчэ ёсць пытанні па вашай сітуацыі пасля прачытання брашуры, напішыце ✍️  па электроннай пошце (biuro@interwencjaprawna.pl).
 
